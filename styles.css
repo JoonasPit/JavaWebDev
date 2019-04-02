@@ -1,0 +1,29 @@
+body {
+	background-color: whitesmoke;
+	font-style: font-family: 'Oxygen', sans-serif;
+}
+
+.button {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.inputfield {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Bungee Inline', cursive;
+	font-size: 80px;
+	text-align: center;
+	
+}
+h2 {
+	font-family: 'Bungee Inline', cursive;
+	font-size: 40px;
+	
+}
+
+
+p {
+	font-family: 'Bungee Inline', cursive;
+}
